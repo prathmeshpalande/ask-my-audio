@@ -1,0 +1,7 @@
+
+                transcript = 'hello check 1 2 3'
+
+                question = 'What is the audio about?'
+
+                response = 'The audio appears to be a microphone or sound check, indicated by the phrase "hello check 1 2 3." This is commonly used to test the audio levels and clarity before recording or broadcasting.'
+            
